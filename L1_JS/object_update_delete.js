@@ -5,7 +5,7 @@
 
 // };
 // object is collection of Key:value pair
-// key : string or number and value : any valid js datatype
+// key : string or number and value : any valid js  datatype
 
 let cap={
     // cap is an object

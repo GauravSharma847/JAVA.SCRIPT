@@ -1,5 +1,5 @@
 // print no main nothing
-// top to bottom left to right
+// top to bottom left to  right
 console.log("Hello World");
 
 // variable declare way
