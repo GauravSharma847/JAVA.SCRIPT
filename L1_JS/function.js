@@ -8,7 +8,7 @@ function fn(){
 // function invocation
 let rVal=fn();
 // when you don't return anything from a fn()
-// then it will return undefined
+// then it  will return undefined
 console.log("rVal from fn()",rVal);
 
 // function with parameters

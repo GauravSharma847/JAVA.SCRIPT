@@ -9,7 +9,7 @@
 
 let cap={
     // cap is an object
-    firstName:"Steve",
+    firstName:"Steve" ,
     "last Name":"Rogers",
     friends:["Tony","Peter","Bruce"],
     address:{

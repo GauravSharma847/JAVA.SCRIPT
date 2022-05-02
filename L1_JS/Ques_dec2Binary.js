@@ -7,6 +7,7 @@ function decimalToBinary(dec){
         power = power * 10;
         dec = Math.floor(dec / 2);
     }
+    
     return bin;
 }
 let binaryNumber=decimalToBinary(13);

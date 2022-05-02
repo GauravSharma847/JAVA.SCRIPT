@@ -9,7 +9,7 @@ let a;
 a=10;
 console.log("Value of a",a);
 a=10.1;
-// strings
+//  strings
 // no char only string and no diff b/w single and double 
 a='Hello';
 a="duble quoted Hello";
